@@ -44,11 +44,11 @@
 				<apigee.env>test</apigee.env>
 				<apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
 				<apigee.apiversion>v1</apigee.apiversion>
-				<apigee.org>${org}</apigee.org>
+				<apigee.org>amer-demo14</apigee.org>
 				<apigee.authtype>oauth</apigee.authtype> <!-- optional: oauth|basic(default) -->
 				<apigee.tokenurl>https://login.apigee.com/oauth/token</apigee.tokenurl> <!-- update to https://zoneName.login.apigee.com/oauth/token -->
-				<apigee.username>${username}</apigee.username> <!-- machine user -->
-				<apigee.password>${password}</apigee.password> <!-- machine password -->
+				<apigee.username>jeffreliu@google.com</apigee.username> <!-- machine user -->
+				<apigee.password>Natures546!@</apigee.password> <!-- machine password -->
 				<apigee.options>update</apigee.options>
 				<apigee.config.dir>./resources/edge</apigee.config.dir> <!-- For config plugin -->
 				<apigee.config.options>update</apigee.config.options> <!-- For config plugin -->
@@ -63,11 +63,11 @@
 				<apigee.env>prod</apigee.env>
 				<apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
 				<apigee.apiversion>v1</apigee.apiversion>
-				<apigee.org>${org}</apigee.org>
+				<apigee.org>amer-demo14</apigee.org>
 				<apigee.authtype>oauth</apigee.authtype> <!-- optional: oauth|basic(default) -->
 				<apigee.tokenurl>https://login.apigee.com/oauth/token</apigee.tokenurl> <!-- update to https://zoneName.login.apigee.com/oauth/token -->
-				<apigee.username>${username}</apigee.username> <!-- machine user -->
-				<apigee.password>${password}</apigee.password> <!-- machine password -->
+				<apigee.username>jeffreliu@google.com</apigee.username> <!-- machine user -->
+				<apigee.password>Natures546!@</apigee.password> <!-- machine password -->
 				<apigee.options>override</apigee.options>
 				<apigee.config.dir>./resources/edge</apigee.config.dir> <!-- For config plugin -->
 				<apigee.config.options>update</apigee.config.options> <!-- For config plugin -->
